@@ -2,3 +2,4 @@ Name=Hari
 Prefession=Software
 Location=Bangalore
 Area=Bellandur
+Pin=560103

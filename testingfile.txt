@@ -1,0 +1,3 @@
+This is hari
+
+welcome to new Git repo

@@ -1,0 +1,4 @@
+Name=Hari
+Prefession=Software
+Location=Bangalore
+Area=Bellandur
